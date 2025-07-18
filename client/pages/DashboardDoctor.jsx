@@ -1,0 +1,1 @@
+export default function DashboardDoctor() { return <h1>Doctor Dashboard</h1>; }

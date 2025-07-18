@@ -1,0 +1,1 @@
+export default function VitalsPage() { return <h1>Vitals Entry Page</h1>; }

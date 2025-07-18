@@ -1,0 +1,1 @@
+export default function PregnancyTracker() { return <h1>Pregnancy Tracker Page</h1>; }
